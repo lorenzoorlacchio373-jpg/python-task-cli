@@ -26,7 +26,4 @@ echo "# Python
   .hypothesis
   .mypy_cache
   .DS_Store
-  Thumbs.db" > .gitignore
-     Poi fai il primo commit:
-  git add .gitignore
-  git commit -m "feat: inizializza progetto con .gitignore base"
+  Thumbs.db"
